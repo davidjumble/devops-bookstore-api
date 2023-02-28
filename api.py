@@ -26,6 +26,12 @@ books = [{
         "bookDescription": "The overwhelming majority of a software system's lifespan is spent in use, not in design or implementation. So, why does conventional wisdom insist that software engineers focus primarily on the design and development of large-scale computing systems?",
         "bookAuthors" : "Betsy Beyer, Chris Jones, Jennifer Petoff"
     },
+    {
+        "bookTitle": "Bread: The Story of Greggs" ,
+        "bookImage": "https://cdn.penguin.co.uk/dam-assets/books/9781448168552/9781448168552-jacket-large.jpg",
+        "bookDescription": "Greggs is a next-generation platform for selling pastys. Greggs allows you to create a robust and resilient Pasty environment in which you can generate portable, composable, scalable, and stable application baked goods.",
+        "bookAuthors" : "Gregg"
+    },
 ]
 
 # Schema For the Book Request JSON
